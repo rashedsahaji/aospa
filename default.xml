@@ -742,7 +742,4 @@
   <!-- Paranoid Android additions -->
   <include name="manifests/aospa.xml"/>
 
- <!-- Add some LineageOS repos -->
-  <include name="manifests/hals.xml" />
-
 </manifest>
