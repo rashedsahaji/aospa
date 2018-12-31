@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="AOSPA"
+          fetch="https://github.com/AOSPA"
+          revision="pie-8998" />
+
+	 <!-- CodeAurora additions -->
+<project path="hardware/qcom/audio-caf/msm8998" name="android_hardware_qcom_audio" revision="pie-8998" remote="AOSPA" />
+<project path="hardware/qcom/display-caf/msm8998" name="android_hardware_qcom_display" revision="pie-8998" remote="AOSPA" />
+<project path="hardware/qcom/media-caf/msm8998" name="android_hardware_qcom_media" revision="pie-8998" remote="AOSPA" />
+
+</manifest>
